@@ -1,7 +1,7 @@
 # TIS100 Emulator
 
-TIS100 emulator built for the terminal as a fun Rust project. Effort streamed at
-[corydu](https://twitch.tv/corydu). No guarentees of matching the game, mostly just
+TIS100 emulator built for the terminal as a fun Rust project. Effort streamed
+[on Twitch](https://twitch.tv/corydu). No guarentees of matching the game, mostly just
 building a fun project for a reason to stream some Rust development.
 
 ```
